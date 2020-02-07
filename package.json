@@ -1,0 +1,26 @@
+{
+  "name": "sdcc-filter",
+  "version": "0.0.1",
+  "author": "Topten Software",
+  "contributors": [
+    {
+      "name": "Brad Robinson",
+      "email": "contact@toptensoftware.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/toptensoftware/sdcc-filter"
+  },
+  "description": "SDCC error message filter",
+  "license": "Apache",
+  "bin": {
+    "sdcc-filter": "./bin/sdcc-filter.js"
+  },
+  "preferGlobal": true,
+  "keywords": [
+    "sdcc"
+  ],
+  "dependencies": {
+  }
+}
