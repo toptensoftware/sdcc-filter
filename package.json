@@ -12,7 +12,7 @@
     "type": "git",
     "url": "https://bitbucket.org/toptensoftware/sdcc-filter"
   },
-  "description": "SDCC error message filter",
+  "description": "Filter to normalize SDCC error and warning messages to $msCompile format",
   "license": "Apache",
   "bin": {
     "sdcc-filter": "./bin/sdcc-filter.js"
